@@ -55,6 +55,13 @@ footer {
     color: white;
     padding: 10px 0;
 }
+h4 {
+    font-size: 24px; 
+    color: #333;
+    font-family: Arial, sans-serif; 
+    text-align: left; 
+
+}
 
 .project {
     background-color: blue;
